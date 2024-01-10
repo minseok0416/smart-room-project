@@ -13,12 +13,14 @@
 - **팀원2 : 장은정** : 프론트엔드
 
 ### 개발환경
-- 'Arduino ESP8266 D1 R1 Board'
-- 'Node.js v18.18.2'
-- 'express 4.18.2'
+- `Arduino ESP8266 D1 R1 Board`
+- `Node.js v18.18.2`
+- `express 4.18.2`
 - **DataBase** : Firebase RealtimeDB
 - **Auth** : Firebase Authentication
 
 
 ## 주요기능
-#### 아두이노 스케치 - <a href="https://github.com/minseok0416/smart-room-project/blob/master/project/project.ino">상세보기 -
+#### 아두이노 스케치 - <a href="https://github.com/minseok0416/smart-room-project/blob/master/project/project.ino">상세보기 - 이동
+
+#### node.js - <a href="https://github.com/minseok0416/smart-room-project/blob/master/project/project.ino">상세보기 - 이동
