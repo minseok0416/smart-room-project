@@ -7,10 +7,18 @@
 ## 개발 기간
 2023.10 - 2023.11 (3주)
 
+### 멤버구성
+- **팀장 : 남기찬** : 백엔드, 스케치코드 작성
+- **팀원1 : 양민석** : RealtimeDB, Authentication, 센서값 연동 및 제어
+- **팀원2 : 장은정** : 프론트엔드
+
 ### 개발환경
-- Arduino ESP8266 D1 R1 Board
-- Firebase RealtimeDB
-- Firebase Authentication
+- 'Arduino ESP8266 D1 R1 Board'
+- 'Node.js v18.18.2'
+- 'express 4.18.2'
+- **DataBase** : Firebase RealtimeDB
+- **Auth** : Firebase Authentication
 
 
 ## 주요기능
+#### 아두이노 스케치 - <a href>상세보기 -
