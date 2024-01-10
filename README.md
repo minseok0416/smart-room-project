@@ -21,4 +21,4 @@
 
 
 ## 주요기능
-#### 아두이노 스케치 - <a href>상세보기 -
+#### 아두이노 스케치 - <a href="https://github.com/minseok0416/smart-room-project/blob/master/project/project.ino">상세보기 -
